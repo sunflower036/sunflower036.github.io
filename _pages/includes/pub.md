@@ -1,6 +1,17 @@
 
 # 📝 Publications 
+
+## 🧑 LLM
+
+- ``AAAI 2026`` [Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models](https://arxiv.org/pdf/2505.16517), Zirui Song, Guangxian Ouyang, **Mingzhe Li**, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chenn.
+
+- ``EMNLP 2025`` [Injecting domain-specific knowledge into large language models: a comprehensive survey](https://arxiv.org/pdf/2502.10708?), Zirui Song, Bin Yan, Yuhan Liu, Miao Fang, **Mingzhe Li**, Rui Yan, Xiuying Chen.
+
+
+
 ## 🔍 Searching
+
+- - ``ACL 2025`` [Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching](https://aclanthology.org/2025.acl-long.1081.pdf), **Mingzhe Li**, Jing Xiang, Qishen Zhang, Kaiyang Wan, Xiuying Chen.
 
 - ``WSDM 2024`` [Multi-Intent Attribute-Aware Text Matching in Searching](https://arxiv.org/pdf/2402.07788.pdf), **Mingzhe Li**, Xiuying Chen, Jing Xiang, Qishen Zhang, Changsheng Ma, Chenchen Dai, Jinxiong Chang, Zhongyi Liu, Guannan Zhang.
 
@@ -10,7 +21,13 @@
 
 
 
-## 🧑‍🎨 Text Generation Application
+## 🤖 AI-Generated Text for Social Media Dynamics
+
+- ``TASLP 2024``[Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization](https://ieeexplore.ieee.org/document/10414164), Xiuying Chen, Shen Gao, **Mingzhe Li**, Qingqing Zhu, Xin Gao, Xiangliang Zhang.
+
+- ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
+
+- ``TOIS 2022`` [Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/pdf/10.1145/3517221), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
 
 - ``SIGIR 2022`` [Target-aware Abstractive Related Work Generation with Contrastive Learning](https://arxiv.org/pdf/2205.13339.pdf), Xiuying Chen, Hind Alamro, **Mingzhe Li**, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/Target-aware-RWG)
 
@@ -22,25 +39,18 @@
 
 
 
-## 📚 Summarization
-- ``TASLP 2024``[Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization](https://ieeexplore.ieee.org/document/10414164), Xiuying Chen, Shen Gao, **Mingzhe Li**, Qingqing Zhu, Xin Gao, Xiangliang Zhang.
+## 📚 AI-Generated Text for Accuracy
 
-- ``ACL 2023`` [Improving the Robustness of Summarization Systems with Dual Augmentation](https://arxiv.org/pdf/2306.01090.pdf), Xiuying Chen, Guodong Long, Chongyang Tao, **Mingzhe Li**, Xin Gao, Chengqi Zhang, Xiangliang Zhang. [Code](https://github.com/iriscxy/robustness)
+- ``SIGIR 2024``[Flexible and Adaptable Summarization via Expertise Separation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657789), Xiuying Chen, **Mingzhe Li**, Shen Gao, Xin Cheng, Qingqing Zhu, Rui Yan, Xin Gao, Xiangliang Zhang.
 
 - ``SIGIR 2023`` [A Topic-aware Summarization Framework with Different Modal Side Information](https://arxiv.org/pdf/2305.11503.pdf), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang.
+
+- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen\*, **Mingzhe Li\***, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao, Xiangliang Zhang, Rui Yan.
+
+- ``ACL 2023`` [Dialogue Summarization with Static-Dynamic Structure Fusion Graph](https://aclanthology.org/2023.acl-long.775.pdf), Shen Gao, Xin Cheng, **Mingzhe Li**, Xiuying Chen, Jinpeng Li, Dongyan Zhao, Rui Yan.
+
+- ``ACL 2023`` [Improving the Robustness of Summarization Systems with Dual Augmentation](https://arxiv.org/pdf/2306.01090.pdf), Xiuying Chen, Guodong Long, Chongyang Tao, **Mingzhe Li**, Xin Gao, Chengqi Zhang, Xiangliang Zhang. [Code](https://github.com/iriscxy/robustness)
 
 - ``EMNLP 2022`` [Scientific Paper Extractive Summarization Enhanced by Citation Graphs](https://arxiv.org/pdf/2212.04214.pdf), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang.
 
 - ``NeurIPS 2022`` [Towards Improving Faithfulness in Abstractive Summarization](https://arxiv.org/pdf/2210.01877.pdf), Xiuying Chen, **Mingzhe Li**, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/FES)
-
-- ``TOIS 2022`` [Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/pdf/10.1145/3517221), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
-
-
-
-## 🎙 Dialog System 
-
-- ``ACL 2023`` [Dialogue Summarization with Static-Dynamic Structure Fusion Graph](https://aclanthology.org/2023.acl-long.775.pdf), Shen Gao, Xin Cheng, **Mingzhe Li**, Xiuying Chen, Jinpeng Li, Dongyan Zhao, Rui Yan.
-
-- ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
-
-- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), Xiuying Chen\*, **Mingzhe Li\***, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao, Xiangliang Zhang, Rui Yan.

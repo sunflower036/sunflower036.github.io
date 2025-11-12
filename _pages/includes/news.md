@@ -1,5 +1,4 @@
 # 🔥 News
-- *2024.03*: 🎉 One paper is accepted by SIGIR 2024
-- *2023.10*: One paper is accepted by WSDM 2024
-- *2023.05*: Two papers are accepted by ACL 2023
-- *2023.02*: One paper is accepted by SIGIR 2023
+- *2025.11*: 🎉 One paper is accepted by AAAI 2026
+- *2025.09*: 🎉 One paper is accepted by EMNLP 2025
+- *2025.05*: One paper is accepted by ACL 2025

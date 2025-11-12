@@ -12,6 +12,7 @@
 
 
 # ⭐ Services
-- *2024*, Program Committee, ACL, EACL, CIKM.
+- *2025*, Program Committee, ACL, EMNLP, ICLR, NeurIPS, WWW, SIGIR, CIKM.
+- *2024*, Program Committee, ACL, EMNLP, WWW, SIGIR, EACL, CIKM.
 - *2023*, Program Committee, WWW, SIGIR, EACL, SDM, NLPCC.
 - *2022*, Program Committee, KDD, WWW, SIGIR, NLPCC.
