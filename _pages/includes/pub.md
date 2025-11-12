@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-## 🧑 LLM
+## 🧑 Domain-Specific LLM Application
 
 - ``AAAI 2026`` [Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models](https://arxiv.org/pdf/2505.16517), Zirui Song, Guangxian Ouyang, **Mingzhe Li**, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chen.
 
