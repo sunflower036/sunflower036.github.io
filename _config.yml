@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingzhe Li"
-description              : "Algorithm Engineer, Ant Group "
+description              : "Algorithm Engineer, ByteDance "
 repository               : "sunflower036/lmz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=HNP4LjsAAAAJ&hl=en"
-  email            : "limingzhe.lmz@antgroup.com"
+  email            : "limingzhe.lmz@bytedance.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -33,7 +33,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sunflower036"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
