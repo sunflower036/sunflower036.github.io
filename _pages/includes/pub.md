@@ -11,7 +11,7 @@
 
 ## 🔍 Searching
 
-- - ``ACL 2025`` [Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching](https://aclanthology.org/2025.acl-long.1081.pdf), **Mingzhe Li**, Jing Xiang, Qishen Zhang, Kaiyang Wan, Xiuying Chen.
+- ``ACL 2025`` [Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching](https://aclanthology.org/2025.acl-long.1081.pdf), **Mingzhe Li**, Jing Xiang, Qishen Zhang, Kaiyang Wan, Xiuying Chen.
 
 - ``WSDM 2024`` [Multi-Intent Attribute-Aware Text Matching in Searching](https://arxiv.org/pdf/2402.07788.pdf), **Mingzhe Li**, Xiuying Chen, Jing Xiang, Qishen Zhang, Changsheng Ma, Chenchen Dai, Jinxiong Chang, Zhongyi Liu, Guannan Zhang.
 
